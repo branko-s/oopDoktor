@@ -1,0 +1,11 @@
+C:\Users\Branko\Documents\GitHub\oopDoktor\obj\Debug\netcoreapp2.2\oopDoktor.csprojAssemblyReference.cache
+C:\Users\Branko\Documents\GitHub\oopDoktor\obj\Debug\netcoreapp2.2\oopDoktor.csproj.CoreCompileInputs.cache
+C:\Users\Branko\Documents\GitHub\oopDoktor\obj\Debug\netcoreapp2.2\oopDoktor.AssemblyInfoInputs.cache
+C:\Users\Branko\Documents\GitHub\oopDoktor\obj\Debug\netcoreapp2.2\oopDoktor.AssemblyInfo.cs
+C:\Users\Branko\Documents\GitHub\oopDoktor\bin\Debug\netcoreapp2.2\oopDoktor.deps.json
+C:\Users\Branko\Documents\GitHub\oopDoktor\bin\Debug\netcoreapp2.2\oopDoktor.runtimeconfig.json
+C:\Users\Branko\Documents\GitHub\oopDoktor\bin\Debug\netcoreapp2.2\oopDoktor.runtimeconfig.dev.json
+C:\Users\Branko\Documents\GitHub\oopDoktor\bin\Debug\netcoreapp2.2\oopDoktor.dll
+C:\Users\Branko\Documents\GitHub\oopDoktor\bin\Debug\netcoreapp2.2\oopDoktor.pdb
+C:\Users\Branko\Documents\GitHub\oopDoktor\obj\Debug\netcoreapp2.2\oopDoktor.dll
+C:\Users\Branko\Documents\GitHub\oopDoktor\obj\Debug\netcoreapp2.2\oopDoktor.pdb
